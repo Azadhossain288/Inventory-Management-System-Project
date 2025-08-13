@@ -60,10 +60,10 @@ Technologies Used:
 
 
 We are 4 team members with this project works:
-Azad Hossain(231_115_039)->Frontened+Database+Supplier Management(Whole Database Design)
-Abdul Mumin Tuhal(231_115_030)->User Management
-Amad Ahmed(231_115_023)->Product Management
-Jamil Ahmed Srijon(231_115_031)->Supplier Purchase Management
+1.Azad Hossain(231_115_039)->Frontened+Database+Supplier Management(Whole Database Design)
+2.Abdul Mumin Tuhal(231_115_030)->User Management
+3.Amad Ahmed(231_115_023)->Product Management
+4.Jamil Ahmed Srijon(231_115_031)->Supplier Purchase Management
 
 
 
